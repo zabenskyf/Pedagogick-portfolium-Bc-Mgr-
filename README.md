@@ -1,7 +1,4 @@
 Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
+Navazující magisterské studium <br>
+Bc. Filip Žabenský (D26218) <br>
+Obor: N0114A300033, Kombinovaný <br>
